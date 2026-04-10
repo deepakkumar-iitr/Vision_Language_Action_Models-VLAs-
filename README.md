@@ -13,10 +13,23 @@ This repository serves as a collection of resources, tools and papers for Vision
 |5.|2024|Octo: An Open-Source Generalist Robot Policy                                                |https://arxiv.org/abs/2405.12213|
 |6.|2025|π0.5: A Vision-Language-Action Model with Open-World Generalization                         |https://arxiv.org/abs/2504.16054|
 |7.|2025|π0.6: A VLA That Learns From Experience                                                     |https://arxiv.org/abs/2511.14759|
-|8.|2025|TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models                           |https://arxiv.org/abs/2409.12514|
+|8.|2025|TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models                         |https://arxiv.org/abs/2409.12514|
+|9.|2025|SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics               |https://arxiv.org/abs/2506.01844|
+|10.|2025|Spec-VLA: Speculative Decoding for VLA Inference Acceleration                              |https://arxiv.org/pdf/2507.22424|
 
 ---
 # Resources
 dd
 
 ---
+
+# 💡 GitHub Repositories for Full Paper Lists:
+1. Awesome-VLA-Papers https://github.com/Psi-Robot/Awesome-VLA-Papers
+2. Awesome-Embodied-VLA-VA-VLN 
+3. VLAs (Muhayyuddin)
+
+## 🔗 Resources
+
+[![Awesome-VLA-Papers](https://img.shields.io/badge/Awesome--VLA--Papers-GitHub-blue?logo=github)](https://github.com/Psi-Robot/Awesome-VLA-Papers)
+[![Awesome-Embodied-VLA-VA-VLN](https://img.shields.io/badge/Awesome--Embodied--VLA--VA--VLN-GitHub-blue?logo=github)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
+[![VLAs-Muhayyuddin](https://img.shields.io/badge/VLAs--Muhayyuddin-GitHub-blue?logo=github)](https://github.com/Muhayyuddin/VLAs)
