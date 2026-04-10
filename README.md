@@ -25,15 +25,17 @@ This repository serves as a collection of resources, tools and papers for Vision
 
 ## 🔗 Simulators
 
-# Resources
-dd
+# Survey Papers
+1. Vision-Language-Action Models: Concepts, Progress, Applications and Challenges, 2025.05. [[📄 Paper]([link](https://arxiv.org/abs/2505.04769))]
+2. Robot Learning in the Era of Foundation Models: A Survey*, 2023.11, Neurocomputing Volume 638. [[📄 Paper]([link](https://arxiv.org/abs/2311.14379))]
 
 ---
 
+
 # 💡 GitHub Repositories for Full Paper Lists:
 1. Awesome-VLA-Papers https://github.com/Psi-Robot/Awesome-VLA-Papers
-2. Awesome-Embodied-VLA-VA-VLN 
-3. VLAs (Muhayyuddin)
+2. Awesome-Embodied-VLA-VA-VLN https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
+3. VLAs (Muhayyuddin) https://github.com/Muhayyuddin/VLAs
 
 
 ## 🔗 Resources
