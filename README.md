@@ -26,8 +26,8 @@ This repository serves as a collection of resources, tools and papers for Vision
 ## 🔗 Simulators
 
 # Survey Papers
-1. Vision-Language-Action Models: Concepts, Progress, Applications and Challenges, 2025.05. [[📄 Paper]([link](https://arxiv.org/abs/2505.04769))]
-2. Robot Learning in the Era of Foundation Models: A Survey*, 2023.11, Neurocomputing Volume 638. [[📄 Paper]([link](https://arxiv.org/abs/2311.14379))]
+1. Vision-Language-Action Models: Concepts, Progress, Applications and Challenges, 2025.05. [[📄 Paper](https://arxiv.org/abs/2505.04769)]
+2. Robot Learning in the Era of Foundation Models: A Survey*, 2023.11, Neurocomputing Volume 638. [[📄 Paper](https://arxiv.org/abs/2311.14379)]
 
 ---
 
