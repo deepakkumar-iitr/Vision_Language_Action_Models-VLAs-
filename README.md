@@ -18,6 +18,13 @@ This repository serves as a collection of resources, tools and papers for Vision
 |10.|2025|Spec-VLA: Speculative Decoding for VLA Inference Acceleration                              |https://arxiv.org/pdf/2507.22424|
 
 ---
+## Datasets
+|SN|Year|Dataset Name|Dataset Link|
+|:---:|:---:|:---|:---|
+|1.|2025|RoboChallenge                                  |https://huggingface.co/datasets/RoboChallenge/Table30|
+
+## 🔗 Simulators
+
 # Resources
 dd
 
@@ -27,6 +34,7 @@ dd
 1. Awesome-VLA-Papers https://github.com/Psi-Robot/Awesome-VLA-Papers
 2. Awesome-Embodied-VLA-VA-VLN 
 3. VLAs (Muhayyuddin)
+
 
 ## 🔗 Resources
 
