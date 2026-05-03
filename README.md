@@ -1,5 +1,5 @@
 # Vision Language Action Models (VLAs)
-This repository serves as a collection of resources, tools and papers for Vision Language Action Models (VLAs). This VLA repository traces a rapid three-year arc (2022–2025) from Google's first transformer-based robot policy to fully open-source, diffusion-powered, reasoning-capable generalist agents — representing one of the most exciting frontiers at the intersection of AI and physical robotics.
+This repository serves as a collection of resources, tools and papers for Vision Language Action Models (VLAs). This VLA repository traces a rapid four-year arc (2022–2026) from Google's first transformer-based robot policy to fully open-source, diffusion-powered, reasoning-capable generalist agents — representing one of the most exciting frontiers at the intersection of AI and physical robotics.
 
 ---
 
@@ -31,10 +31,12 @@ This repository serves as a collection of resources, tools and papers for Vision
 |11.|2025|X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model     |https://arxiv.org/abs/2510.10274|
 |11.|2025|OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning                      |https://arxiv.org/abs/2505.11917|
 |11.|2025|LatBot: Distilling Universal Latent Actions for Vision-Language-Action Models                  |https://arxiv.org/abs/2511.23034|
+|12.|2025|Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better    |https://arxiv.org/abs/2505.23705|
 |11.|2026|CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos |https://arxiv.org/abs/2601.04061|
 |11.|2026|Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning                    |https://arxiv.org/abs/2601.16163|
 |11.|2026|World Action Models are Zero-shot Policies                                                     |https://arxiv.org/abs/2602.15922|
-|12.|2026|π0.5: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities               |https://arxiv.org/abs/2604.15483|
+|11.|2026|Fast-WAM: Do World Action Models Need Test-time Future Imagination?                            |https://arxiv.org/abs/2603.16666|
+|12.|2026|π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities               |https://arxiv.org/abs/2604.15483|
 ---
 ## Datasets
 |SN|Year|Dataset Name|Dataset Link|
