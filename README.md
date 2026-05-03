@@ -51,14 +51,18 @@ This repository serves as a collection of resources, tools and papers for Vision
 |SN|Year|Title|Link|
 |:---:|:---:|:---|:---|
 |1.|2023|Robot Learning in the Era of Foundation Models: A Survey|[[Paper](https://arxiv.org/abs/2311.14379)]|
-|2.|2025|Vision-language-action models for robotics: a review towards real-world applications|[[Paper](https://arxiv.org/abs/2510.07077)]|
-|3.|2025|Vision-Language-Action Models: Concepts, Progress, Applications and Challenges|[[Paper](https://arxiv.org/abs/2505.04769)]|
-|4.|2026|Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions|[[Paper](https://arxiv.org/html/2604.15395v1)]|
-
+|2.|2023|Foundation models in robotics: applications, challenges, and the future|[Paper](https://arxiv.org/abs/2312.07843)]|
+|3.|2024|A Survey on Vision-Language-Action Models for Embodied AI|[Paper](https://arxiv.org/abs/2405.14093)]|
+|4.|2024|Unlocking Robotic Autonomy: A Survey on the Applications of Foundation Models|[Paper](https://link.springer.com/article/10.1007/s12555-024-0438-7)]|
+|5.|2025|Vision-language-action models for robotics: a review towards real-world applications|[[Paper](https://arxiv.org/abs/2510.07077)]|
+|6.|2025|Vision-Language-Action Models: Concepts, Progress, Applications and Challenges|[[Paper](https://arxiv.org/abs/2505.04769)]|
+|7.|2025|Foundation Model Driven Robotics: A Comprehensive Review|[[Paper](https://arxiv.org/abs/2507.10087)]|
+|8.|2026|Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions|[[Paper](https://arxiv.org/html/2604.15395v1)]|
+<!--
 1. Vision-Language-Action Models: Concepts, Progress, Applications and Challenges, 2025.05. [[📄 Paper](https://arxiv.org/abs/2505.04769)]
 2. Robot Learning in the Era of Foundation Models: A Survey*, 2023.11, Neurocomputing Volume 638. [[📄 Paper](https://arxiv.org/abs/2311.14379)]
 3. Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions. [[📄 Paper](https://arxiv.org/html/2604.15395v1)]
-
+-->
 ---
 
 
