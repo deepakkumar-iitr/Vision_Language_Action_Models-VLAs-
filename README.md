@@ -51,8 +51,9 @@ This repository serves as a collection of resources, tools and papers for Vision
 |SN|Year|Title|Link|
 |:---:|:---:|:---|:---|
 |1.|2023|Robot Learning in the Era of Foundation Models: A Survey|[[📄 Paper](https://arxiv.org/abs/2311.14379)]|
-|2.|2025|Vision-Language-Action Models: Concepts, Progress, Applications and Challenges|[[📄 Paper](https://arxiv.org/abs/2505.04769)]|
-|3.|2026|Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions|[[📄 Paper](https://arxiv.org/html/2604.15395v1)]|
+|2.|2025|Vision-language-action models for robotics: a review towards real-world applications|[[Paper](https://arxiv.org/abs/2510.07077)]|
+|3.|2025|Vision-Language-Action Models: Concepts, Progress, Applications and Challenges|[[📄 Paper](https://arxiv.org/abs/2505.04769)]|
+|4.|2026|Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions|[[📄 Paper](https://arxiv.org/html/2604.15395v1)]|
 
 1. Vision-Language-Action Models: Concepts, Progress, Applications and Challenges, 2025.05. [[📄 Paper](https://arxiv.org/abs/2505.04769)]
 2. Robot Learning in the Era of Foundation Models: A Survey*, 2023.11, Neurocomputing Volume 638. [[📄 Paper](https://arxiv.org/abs/2311.14379)]
