@@ -47,6 +47,11 @@ This repository serves as a collection of resources, tools and papers for Vision
 
 ## 🔗 Simulators
 
+## 🔗 Annotator tools
+|SN|Year|Title|PaperLink|GitHub|
+|:---:|:---:|:---|:---|:---|
+|1.|2026|ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation|[[Paper](https://arxiv.org/abs/2604.26637)]||
+
 # Survey Papers
 |SN|Year|Title|Link|
 |:---:|:---:|:---|:---|
