@@ -1,4 +1,4 @@
-# Vision Language Action Models (VLAs)
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/05dd999a-f3e7-4182-b421-376a76303060" /># Vision Language Action Models (VLAs)
 This repository serves as a collection of resources, tools and papers for Vision Language Action Models (VLAs). This VLA repository traces a rapid four-year arc (2022–2026) from Google's first transformer-based robot policy to fully open-source, diffusion-powered, reasoning-capable generalist agents — representing one of the most exciting frontiers at the intersection of AI and physical robotics.
 
 ---
@@ -53,18 +53,19 @@ This repository serves as a collection of resources, tools and papers for Vision
 |1.|2026|ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation|[[📄Paper](https://arxiv.org/abs/2604.26637)]|      |
 
 # Survey Papers
-|SN|Year|Title|PaperLink|
-|:---:|:---:|:---|:---|
-|1.|2023|Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis|[[📄Paper](https://arxiv.org/abs/2312.08782)]|
-|2.|2023|Robot Learning in the Era of Foundation Models: A Survey|[[📄Paper](https://arxiv.org/abs/2311.14379)]|
-|3.|2023|Foundation models in robotics: applications, challenges, and the future|[[📄Paper](https://arxiv.org/abs/2312.07843)]|
-|4.|2024|A Survey on Vision-Language-Action Models for Embodied AI|[[📄Paper](https://arxiv.org/abs/2405.14093)]|
-|5.|2024|Unlocking Robotic Autonomy: A Survey on the Applications of Foundation Models|[[📄Paper](https://link.springer.com/article/10.1007/s12555-024-0438-7)]|
-|6.|2025|Vision-language-action models for robotics: a review towards real-world applications|[[📄Paper](https://arxiv.org/abs/2510.07077)]|
-|7.|2025|Vision-Language-Action Models: Concepts, Progress, Applications and Challenges|[[📄Paper](https://arxiv.org/abs/2505.04769)]|
-|8.|2025|Foundation Model Driven Robotics: A Comprehensive Review|[[📄Paper](https://arxiv.org/abs/2507.10087)]|
-|9.|2025|A Survey on Vision-Language-Action Models: An Action Tokenization Perspective|[[📄Paper](https://arxiv.org/abs/2507.01925)]|
-|10.|2026|Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions|[[📄Paper](https://arxiv.org/html/2604.15395v1)]|
+|SN|Year|Title|PaperLink|GitHub|
+|:---:|:---:|:---|:---|:---|
+|1.|2023|Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis|[[📄Paper](https://arxiv.org/abs/2312.08782)]||
+|2.|2023|Robot Learning in the Era of Foundation Models: A Survey|[[📄Paper](https://arxiv.org/abs/2311.14379)]||
+|3.|2023|Foundation models in robotics: applications, challenges, and the future|[[📄Paper](https://arxiv.org/abs/2312.07843)]||
+|4.|2024|A Survey on Vision-Language-Action Models for Embodied AI|[[📄Paper](https://arxiv.org/abs/2405.14093)]||
+|5.|2024|Unlocking Robotic Autonomy: A Survey on the Applications of Foundation Models|[[📄Paper](https://link.springer.com/article/10.1007/s12555-024-0438-7)]||
+|6.|2025|Vision-language-action models for robotics: a review towards real-world applications|[[📄Paper](https://arxiv.org/abs/2510.07077)]||
+|7.|2025|Vision-Language-Action Models: Concepts, Progress, Applications and Challenges|[[📄Paper](https://arxiv.org/abs/2505.04769)]||
+|8.|2025|Foundation Model Driven Robotics: A Comprehensive Review|[[📄Paper](https://arxiv.org/abs/2507.10087)]||
+|9.|2025|A Survey on Vision-Language-Action Models: An Action Tokenization Perspective|[[📄Paper](https://arxiv.org/abs/2507.01925)]|[[<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0658156a-f60b-4880-8176-91f483ea9e60" />
+GiHub](https://github.com/Psi-Robot/Awesome-VLA-Papers)]|
+|10.|2026|Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions|[[📄Paper](https://arxiv.org/html/2604.15395v1)]||
 
 <!--
 1. Vision-Language-Action Models: Concepts, Progress, Applications and Challenges, 2025.05. [[📄 Paper](https://arxiv.org/abs/2505.04769)]
