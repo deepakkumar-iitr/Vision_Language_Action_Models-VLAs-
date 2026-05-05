@@ -39,31 +39,31 @@ This repository serves as a collection of resources, tools and papers for Vision
 |31.|2026|π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities               |https://arxiv.org/abs/2604.15483|
 ---
 ## Datasets
-|SN|Year|Dataset Name|Dataset Link|
-|:---:|:---:|:---|:---|
-|1.|2023|Open X-Embodiment: Robotic Learning Datasets and RT-X Models             |https://arxiv.org/abs/2310.08864|
-|2.|2023|RoboVQA: Multimodal Long-Horizon Reasoning for Robotics                  |https://anonymous-robovqa.github.io/|
-|3.|2025|RoboChallenge                                                            |https://huggingface.co/datasets/RoboChallenge/Table30|
+|SN|Year|Dataset Name|Dataset Link|GitHub|
+|:---:|:---:|:---|:---|:---|
+|1.|2023|Open X-Embodiment: Robotic Learning Datasets and RT-X Models             |https://arxiv.org/abs/2310.08864|        |
+|2.|2023|RoboVQA: Multimodal Long-Horizon Reasoning for Robotics                  |https://anonymous-robovqa.github.io/|      |
+|3.|2025|RoboChallenge                                                            |https://huggingface.co/datasets/RoboChallenge/Table30|      |
 
 ## 🔗 Simulators
 
 ## 🔗 Annotator tools
 |SN|Year|Title|PaperLink|GitHub|
 |:---:|:---:|:---|:---|:---|
-|1.|2026|ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation|[[Paper](https://arxiv.org/abs/2604.26637)]||
+|1.|2026|ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation|[[📄Paper](https://arxiv.org/abs/2604.26637)]|      |
 
 # Survey Papers
-|SN|Year|Title|Link|
+|SN|Year|Title|PaperLink|
 |:---:|:---:|:---|:---|
-|1.|2023|Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis|[[Paper](https://arxiv.org/abs/2312.08782)]|
-|2.|2023|Robot Learning in the Era of Foundation Models: A Survey|[[Paper](https://arxiv.org/abs/2311.14379)]|
-|3.|2023|Foundation models in robotics: applications, challenges, and the future|[[Paper](https://arxiv.org/abs/2312.07843)]|
-|4.|2024|A Survey on Vision-Language-Action Models for Embodied AI|[[Paper](https://arxiv.org/abs/2405.14093)]|
-|5.|2024|Unlocking Robotic Autonomy: A Survey on the Applications of Foundation Models|[[Paper](https://link.springer.com/article/10.1007/s12555-024-0438-7)]|
-|6.|2025|Vision-language-action models for robotics: a review towards real-world applications|[[Paper](https://arxiv.org/abs/2510.07077)]|
-|7.|2025|Vision-Language-Action Models: Concepts, Progress, Applications and Challenges|[[Paper](https://arxiv.org/abs/2505.04769)]|
-|8.|2025|Foundation Model Driven Robotics: A Comprehensive Review|[[Paper](https://arxiv.org/abs/2507.10087)]|
-|9.|2026|Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions|[[Paper](https://arxiv.org/html/2604.15395v1)]|
+|1.|2023|Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis|[[📄Paper](https://arxiv.org/abs/2312.08782)]|
+|2.|2023|Robot Learning in the Era of Foundation Models: A Survey|[[📄Paper](https://arxiv.org/abs/2311.14379)]|
+|3.|2023|Foundation models in robotics: applications, challenges, and the future|[[📄Paper](https://arxiv.org/abs/2312.07843)]|
+|4.|2024|A Survey on Vision-Language-Action Models for Embodied AI|[[📄Paper](https://arxiv.org/abs/2405.14093)]|
+|5.|2024|Unlocking Robotic Autonomy: A Survey on the Applications of Foundation Models|[[📄Paper](https://link.springer.com/article/10.1007/s12555-024-0438-7)]|
+|6.|2025|Vision-language-action models for robotics: a review towards real-world applications|[[📄Paper](https://arxiv.org/abs/2510.07077)]|
+|7.|2025|Vision-Language-Action Models: Concepts, Progress, Applications and Challenges|[[📄Paper](https://arxiv.org/abs/2505.04769)]|
+|8.|2025|Foundation Model Driven Robotics: A Comprehensive Review|[[📄Paper](https://arxiv.org/abs/2507.10087)]|
+|9.|2026|Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions|[[📄Paper](https://arxiv.org/html/2604.15395v1)]|
 
 <!--
 1. Vision-Language-Action Models: Concepts, Progress, Applications and Challenges, 2025.05. [[📄 Paper](https://arxiv.org/abs/2505.04769)]
