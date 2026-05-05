@@ -53,7 +53,7 @@ This repository serves as a collection of resources, tools and papers for Vision
 |1.|2026|ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation|[[📄Paper](https://arxiv.org/abs/2604.26637)]|      |
 
 # Survey Papers
-|SN|Year|Title|PaperLink|GitHub|
+|SN|Year|Title|PaperLink|GitHub Link|
 |:---:|:---:|:---|:---|:---|
 |1.|2023|Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis|[[📄Paper](https://arxiv.org/abs/2312.08782)]||
 |2.|2023|Robot Learning in the Era of Foundation Models: A Survey|[[📄Paper](https://arxiv.org/abs/2311.14379)]||
