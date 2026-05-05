@@ -63,7 +63,7 @@ This repository serves as a collection of resources, tools and papers for Vision
 |6.|2025|Vision-language-action models for robotics: a review towards real-world applications|[[📄Paper](https://arxiv.org/abs/2510.07077)]||
 |7.|2025|Vision-Language-Action Models: Concepts, Progress, Applications and Challenges|[[📄Paper](https://arxiv.org/abs/2505.04769)]||
 |8.|2025|Foundation Model Driven Robotics: A Comprehensive Review|[[📄Paper](https://arxiv.org/abs/2507.10087)]||
-|9.|2025|A Survey on Vision-Language-Action Models: An Action Tokenization Perspective|[[📄Paper](https://arxiv.org/abs/2507.01925)]|[[GiHub](https://github.com/Psi-Robot/Awesome-VLA-Papers)]|
+|9.|2025|A Survey on Vision-Language-Action Models: An Action Tokenization Perspective|[[📄Paper](https://arxiv.org/abs/2507.01925)]|[[🐙GiHub](https://github.com/Psi-Robot/Awesome-VLA-Papers)]|
 |10.|2026|Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions|[[📄Paper](https://arxiv.org/html/2604.15395v1)]||
 
 <!--
