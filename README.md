@@ -1,4 +1,4 @@
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/05dd999a-f3e7-4182-b421-376a76303060" /># Vision Language Action Models (VLAs)
+# Vision Language Action Models (VLAs)
 This repository serves as a collection of resources, tools and papers for Vision Language Action Models (VLAs). This VLA repository traces a rapid four-year arc (2022–2026) from Google's first transformer-based robot policy to fully open-source, diffusion-powered, reasoning-capable generalist agents — representing one of the most exciting frontiers at the intersection of AI and physical robotics.
 
 ---
@@ -37,13 +37,14 @@ This repository serves as a collection of resources, tools and papers for Vision
 |29.|2026|World Action Models are Zero-shot Policies                                                     |[[📄Paper](https://arxiv.org/abs/2602.15922)]|      |
 |30.|2026|Fast-WAM: Do World Action Models Need Test-time Future Imagination?                            |[[📄Paper](https://arxiv.org/abs/2603.16666)]|        |
 |31.|2026|π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities               |[[📄Paper](https://arxiv.org/abs/2604.15483)]|      |
+|32.|2026|MolmoAct2 Action Reasoning Models for Real-World Deployment               |[[📄Paper](https://arxiv.org/html/2605.02881v1)]|      |
 ---
 ## Datasets
 |SN|Year|Dataset Name|Dataset Link|GitHub|
 |:---:|:---:|:---|:---|:---|
-|1.|2023|Open X-Embodiment: Robotic Learning Datasets and RT-X Models             |https://arxiv.org/abs/2310.08864|        |
-|2.|2023|RoboVQA: Multimodal Long-Horizon Reasoning for Robotics                  |https://anonymous-robovqa.github.io/|      |
-|3.|2025|RoboChallenge                                                            |https://huggingface.co/datasets/RoboChallenge/Table30|      |
+|1.|2023|Open X-Embodiment: Robotic Learning Datasets and RT-X Models             |[[📄Paper](https://arxiv.org/abs/2310.08864)]|        |
+|2.|2023|RoboVQA: Multimodal Long-Horizon Reasoning for Robotics                  |[[📄Paper](https://anonymous-robovqa.github.io/)]|      |
+|3.|2025|RoboChallenge                                                            |[[📄Paper](https://huggingface.co/datasets/RoboChallenge/Table30)]|      |
 
 ## 🔗 Simulators
 
