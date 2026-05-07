@@ -37,7 +37,8 @@ This repository serves as a collection of resources, tools and papers for Vision
 |29.|2026|World Action Models are Zero-shot Policies                                                     |[[📄Paper](https://arxiv.org/abs/2602.15922)]|      |
 |30.|2026|Fast-WAM: Do World Action Models Need Test-time Future Imagination?                            |[[📄Paper](https://arxiv.org/abs/2603.16666)]|        |
 |31.|2026|π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities               |[[📄Paper](https://arxiv.org/abs/2604.15483)]|      |
-|32.|2026|MolmoAct2 Action Reasoning Models for Real-World Deployment               |[[📄Paper](https://arxiv.org/html/2605.02881v1)]|      |
+|32.|2026|RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks               |[[📄Paper](https://arxiv.org/abs/2603.11558)]|      |
+|33.|2026|MolmoAct2 Action Reasoning Models for Real-World Deployment               |[[📄Paper](https://arxiv.org/html/2605.02881v1)]|      |
 ---
 ## Datasets
 |SN|Year|Dataset Name|Dataset Link|GitHub|
