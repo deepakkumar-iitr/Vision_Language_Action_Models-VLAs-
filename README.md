@@ -211,7 +211,7 @@ This repository serves as a collection of resources, tools and papers for Vision
 -->
 ---
 
-
+<!--
 # 💡 GitHub Repositories for Full Paper Lists:
 1. Awesome-VLA-Papers https://github.com/Psi-Robot/Awesome-VLA-Papers
 2. Awesome-Embodied-VLA-VA-VLN https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
