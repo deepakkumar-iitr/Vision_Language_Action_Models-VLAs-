@@ -128,12 +128,18 @@ Please follow the existing table format and include a valid ArXiv or project lin
 
 <div align="center">
 
-*Maintained with ❤️ for the robot learning community*
+*Maintained by Deepak for the robot learning community*
 
 </div>
 
 
 <!--
+<div align="center">
+
+*Maintained with ❤️ for the robot learning community*
+
+</div>
+
 # Vision Language Action Models (VLAs)
 This repository serves as a collection of resources, tools and papers for Vision Language Action Models (VLAs). This VLA repository traces a rapid four-year arc (2022–2026) from Google's first transformer-based robot policy to fully open-source, diffusion-powered, reasoning-capable generalist agents — representing one of the most exciting frontiers at the intersection of AI and physical robotics.
 
