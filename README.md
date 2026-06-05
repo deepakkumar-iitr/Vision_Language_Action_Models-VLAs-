@@ -6,7 +6,7 @@
 *Tracing a rapid four-year arc (2022–2026) from Google's first transformer-based robot policy*
 *to fully open-source, diffusion-powered, reasoning-capable generalist agents.*
 
-[![Papers](https://img.shields.io/badge/📄_Papers-33-teal?style=flat-square)](https://github.com)
+[![Papers](https://img.shields.io/badge/📄_Papers-34-teal?style=flat-square)](https://github.com)
 [![Datasets](https://img.shields.io/badge/🗄️_Datasets-3-blue?style=flat-square)](https://github.com)
 [![Surveys](https://img.shields.io/badge/🗺️_Surveys-10-purple?style=flat-square)](https://github.com)
 [![Tools](https://img.shields.io/badge/🔧_Tools-1-orange?style=flat-square)](https://github.com)
@@ -57,6 +57,7 @@
 | 32 | `2026` | **RoboClaw**: An Agentic Framework for Scalable Long-Horizon Robotic Tasks | [![ArXiv](https://img.shields.io/badge/ArXiv-2603.11558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.11558) | |
 | 33 | `2026` | **MolmoAct2**: Action Reasoning Models for Real-World Deployment | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2605.02881v1) | |
 | 34 | `2026` | **Qwen-VLA**: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.30280) | |
+
 ---
 
 ## 🗄️ Datasets
@@ -97,7 +98,6 @@
 | 08 | `2025` | **Foundation Model Driven Robotics**: A Comprehensive Review | [![ArXiv](https://img.shields.io/badge/ArXiv-2507.10087-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.10087) | |
 | 09 | `2025` | **A Survey on VLA Models**: An Action Tokenization Perspective | [![ArXiv](https://img.shields.io/badge/ArXiv-2507.01925-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.01925) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Psi-Robot/Awesome-VLA-Papers) |
 | 10 | `2026` | **Foundation Models in Robotics**: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Directions | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15395-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2604.15395v1) | |
-
 ---
 
 ## 📌 How to Contribute
