@@ -56,7 +56,7 @@
 | 31 | `2026` | **π0.7**: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15483-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.15483) | |
 | 32 | `2026` | **RoboClaw**: An Agentic Framework for Scalable Long-Horizon Robotic Tasks | [![ArXiv](https://img.shields.io/badge/ArXiv-2603.11558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.11558) | |
 | 33 | `2026` | **MolmoAct2**: Action Reasoning Models for Real-World Deployment | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2605.02881v1) | |
-| 34 | `2026` | **Qwen-VLA**: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.30280) | |
+| 34 | `2026` | **Qwen-VLA**: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.30280) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://qwen.ai/blog?id=qwenvla)|
 
 ---
 
@@ -96,11 +96,12 @@
 | 03 | `2023` | **Foundation Models in Robotics**: Applications, Challenges, and the Future | [![ArXiv](https://img.shields.io/badge/ArXiv-2312.07843-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.07843) | |
 | 04 | `2024` | **A Survey on VLA Models** for Embodied AI | [![ArXiv](https://img.shields.io/badge/ArXiv-2405.14093-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.14093) | |
 | 05 | `2024` | **Unlocking Robotic Autonomy**: A Survey on the Applications of Foundation Models | [![SpringerLink](https://img.shields.io/badge/Springer-Link-green?style=flat-square)](https://link.springer.com/article/10.1007/s12555-024-0438-7) | |
-| 06 | `2025` | **VLA Models for Robotics**: A Review Towards Real-World Applications | [![ArXiv](https://img.shields.io/badge/ArXiv-2510.07077-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.07077) | |
-| 07 | `2025` | **VLA Models**: Concepts, Progress, Applications and Challenges | [![ArXiv](https://img.shields.io/badge/ArXiv-2505.04769-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.04769) | |
-| 08 | `2025` | **Foundation Model Driven Robotics**: A Comprehensive Review | [![ArXiv](https://img.shields.io/badge/ArXiv-2507.10087-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.10087) | |
-| 09 | `2025` | **A Survey on VLA Models**: An Action Tokenization Perspective | [![ArXiv](https://img.shields.io/badge/ArXiv-2507.01925-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.01925) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Psi-Robot/Awesome-VLA-Papers) |
-| 10 | `2026` | **Foundation Models in Robotics**: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Directions | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15395-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2604.15395v1) | |
+| 06 | `2025` | **Robot Learning**: A Tutorial | [![ArXiv](https://img.shields.io/badge/ArXiv-2510.07077-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.12403) | |
+| 07 | `2025` | **VLA Models for Robotics**: A Review Towards Real-World Applications | [![ArXiv](https://img.shields.io/badge/ArXiv-2510.07077-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.07077) | |
+| 08 | `2025` | **VLA Models**: Concepts, Progress, Applications and Challenges | [![ArXiv](https://img.shields.io/badge/ArXiv-2505.04769-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.04769) | |
+| 09 | `2025` | **Foundation Model Driven Robotics**: A Comprehensive Review | [![ArXiv](https://img.shields.io/badge/ArXiv-2507.10087-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.10087) | |
+| 10 | `2025` | **A Survey on VLA Models**: An Action Tokenization Perspective | [![ArXiv](https://img.shields.io/badge/ArXiv-2507.01925-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.01925) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Psi-Robot/Awesome-VLA-Papers) |
+| 11 | `2026` | **Foundation Models in Robotics**: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Directions | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15395-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2604.15395v1) | |
 ---
 
 ## 🔧 Robot Simulators
