@@ -67,10 +67,10 @@
 | SN | Year | Dataset Name | Dataset Link | GitHub |
 |:---:|:---:|:---|:---|:---|
 | 01 | `2023` | **Open X-Embodiment**: Robotic Learning Datasets and RT-X Models | [![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2310.08864) | |
-| 02 | `2023` | **RoboVQA**: Multimodal Long-Horizon Reasoning for Robotics | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://anonymous-robovqa.github.io/) | |
-| 03 | `2024` | **DROID**:A Large-Scale In-The-Wild Robot Manipulation Dataset |[![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.12945) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://droid-dataset.github.io/) |
-
-| 04 | `2025` | **RoboChallenge** | [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Dataset-yellow?style=flat-square)](https://huggingface.co/datasets/RoboChallenge/Table30) | |
+| 02 | `2023` | **BridgeData V2**: A Dataset for Robot Learning at Scale|[![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2308.12952) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://rail-berkeley.github.io/bridgedata/) |
+| 03 | `2023` | **RoboVQA**: Multimodal Long-Horizon Reasoning for Robotics | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://anonymous-robovqa.github.io/) | |
+| 04 | `2024` | **DROID**:A Large-Scale In-The-Wild Robot Manipulation Dataset |[![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.12945) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://droid-dataset.github.io/) |
+| 05 | `2025` | **RoboChallenge** | [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Dataset-yellow?style=flat-square)](https://huggingface.co/datasets/RoboChallenge/Table30) | |
 
 ---
 
