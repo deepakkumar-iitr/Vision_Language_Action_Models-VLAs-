@@ -7,7 +7,7 @@
 *to fully open-source, diffusion-powered, reasoning-capable generalist agents.*
 
 [![Papers](https://img.shields.io/badge/📄_Papers-34-teal?style=flat-square)](https://github.com)
-[![Datasets](https://img.shields.io/badge/🗄️_Datasets-3-blue?style=flat-square)](https://github.com)
+[![Datasets](https://img.shields.io/badge/🗄️_Datasets-6-blue?style=flat-square)](https://github.com)
 [![Surveys](https://img.shields.io/badge/🗺️_Surveys-10-purple?style=flat-square)](https://github.com)
 [![Tools](https://img.shields.io/badge/🔧_Tools-1-orange?style=flat-square)](https://github.com)
 [![Repos](https://img.shields.io/badge/⭐_Repos-3-red?style=flat-square)](https://github.com)
@@ -66,11 +66,12 @@
 
 | SN | Year | Dataset Name | Dataset Link | GitHub |
 |:---:|:---:|:---|:---|:---|
-| 01 | `2023` | **Open X-Embodiment**: Robotic Learning Datasets and RT-X Models | [![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2310.08864) | |
-| 02 | `2023` | **BridgeData V2**: A Dataset for Robot Learning at Scale|[![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2308.12952) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://rail-berkeley.github.io/bridgedata/) |
-| 03 | `2023` | **RoboVQA**: Multimodal Long-Horizon Reasoning for Robotics | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://anonymous-robovqa.github.io/) | |
-| 04 | `2024` | **DROID**:A Large-Scale In-The-Wild Robot Manipulation Dataset |[![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.12945) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://droid-dataset.github.io/) |
-| 05 | `2025` | **RoboChallenge** | [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Dataset-yellow?style=flat-square)](https://huggingface.co/datasets/RoboChallenge/Table30) | |
+| 01 | `2019` | **RoboNet**: Large-Scale Multi-Robot Learning|[![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1910.11215) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://www.robonet.wiki/)|
+| 02 | `2023` | **Open X-Embodiment**: Robotic Learning Datasets and RT-X Models | [![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2310.08864) | |
+| 03 | `2023` | **BridgeData V2**: A Dataset for Robot Learning at Scale|[![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2308.12952) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://rail-berkeley.github.io/bridgedata/) |
+| 04 | `2023` | **RoboVQA**: Multimodal Long-Horizon Reasoning for Robotics | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://anonymous-robovqa.github.io/) | |
+| 05 | `2024` | **DROID**:A Large-Scale In-The-Wild Robot Manipulation Dataset |[![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.12945) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://droid-dataset.github.io/) |
+| 06 | `2025` | **RoboChallenge** | [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Dataset-yellow?style=flat-square)](https://huggingface.co/datasets/RoboChallenge/Table30) | |
 
 ---
 
@@ -100,6 +101,16 @@
 | 08 | `2025` | **Foundation Model Driven Robotics**: A Comprehensive Review | [![ArXiv](https://img.shields.io/badge/ArXiv-2507.10087-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.10087) | |
 | 09 | `2025` | **A Survey on VLA Models**: An Action Tokenization Perspective | [![ArXiv](https://img.shields.io/badge/ArXiv-2507.01925-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.01925) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Psi-Robot/Awesome-VLA-Papers) |
 | 10 | `2026` | **Foundation Models in Robotics**: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Directions | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15395-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2604.15395v1) | |
+---
+
+## 🔧 Robot Simulators
+
+> State-of-the-art open source platform for robot simulation.
+
+| SN | Year | Title | PaperLink | GitHub |
+|:---:|:---:|:---|:---|:---|
+| 01 | `2025`  | **ISAAC-Sim** | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.26637-b31b1b?style=flat-square&logo=arxiv)]()| (https://github.com/isaac-sim/IsaacSim)|
+| 01 | `2026` | **ManiSkill**: State-of-the-art open source platform for robot simulation, infinite robot data generation, and generalizable robot AI. | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.26637-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2410.00425) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://www.maniskill.ai/)|
 ---
 
 ## 📌 How to Contribute
