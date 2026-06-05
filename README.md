@@ -109,7 +109,7 @@
 
 | SN | Year | Title | PaperLink | GitHub |
 |:---:|:---:|:---|:---|:---|
-| 01 | `2025`  | **ISAAC-Sim** | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.26637-b31b1b?style=flat-square&logo=arxiv)]()| (https://github.com/isaac-sim/IsaacSim)|
+| 01 | `2025`  | **ISAAC-Sim** | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.26637-b31b1b?style=flat-square&logo=arxiv)]()| [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacSim)|
 | 01 | `2026` | **ManiSkill**: State-of-the-art open source platform for robot simulation, infinite robot data generation, and generalizable robot AI. | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.26637-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2410.00425) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://www.maniskill.ai/)|
 ---
 
