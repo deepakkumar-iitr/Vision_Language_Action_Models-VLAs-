@@ -56,7 +56,7 @@
 | 31 | `2026` | **π0.7**: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15483-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.15483) | |
 | 32 | `2026` | **RoboClaw**: An Agentic Framework for Scalable Long-Horizon Robotic Tasks | [![ArXiv](https://img.shields.io/badge/ArXiv-2603.11558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.11558) | |
 | 33 | `2026` | **MolmoAct2**: Action Reasoning Models for Real-World Deployment | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2605.02881v1) | |
-
+| 34 | `2026` | **Qwen-VLA**: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.30280) | |
 ---
 
 ## 🗄️ Datasets
