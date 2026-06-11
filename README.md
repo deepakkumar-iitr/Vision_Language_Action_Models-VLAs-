@@ -142,12 +142,15 @@ Please follow the existing table format and include a valid ArXiv or project lin
 1. Awesome-VLA-Papers — https://github.com/Psi-Robot/Awesome-VLA-Papers
 2. Awesome-Embodied-VLA-VA-VLN — https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
 3. VLAs (Muhayyuddin) — https://github.com/Muhayyuddin/VLAs
+4. Awesome VLA & WAM https://github.com/DravenALG/awesome-vla-wam
 
 ## 🔗 Resources
 
 [![Awesome-VLA-Papers](https://img.shields.io/badge/Awesome--VLA--Papers-GitHub-blue?logo=github)](https://github.com/Psi-Robot/Awesome-VLA-Papers)
 [![Awesome-Embodied-VLA-VA-VLN](https://img.shields.io/badge/Awesome--Embodied--VLA--VA--VLN-GitHub-blue?logo=github)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
 [![VLAs-Muhayyuddin](https://img.shields.io/badge/VLAs--Muhayyuddin-GitHub-blue?logo=github)](https://github.com/Muhayyuddin/VLAs)
+[![Awesome VLA and WAM](https://img.shields.io/badge/Awesome VLA WAM-GitHub-pink?logo=github)](https://github.com/DravenALG/awesome-vla-wam)
+
 
 ---
 
@@ -241,7 +244,7 @@ This repository serves as a collection of resources, tools and papers for Vision
 3. Foundation Models in Robotics: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Research Directions. [[📄 Paper](https://arxiv.org/html/2604.15395v1)]
 -->
 ---
-
+<!--
 # 💡 GitHub Repositories for Full Paper Lists:
 1. Awesome-VLA-Papers https://github.com/Psi-Robot/Awesome-VLA-Papers
 2. Awesome-Embodied-VLA-VA-VLN https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
@@ -254,4 +257,4 @@ This repository serves as a collection of resources, tools and papers for Vision
 [![Awesome-VLA-Papers](https://img.shields.io/badge/Awesome--VLA--Papers-GitHub-blue?logo=github)](https://github.com/Psi-Robot/Awesome-VLA-Papers)
 [![Awesome-Embodied-VLA-VA-VLN](https://img.shields.io/badge/Awesome--Embodied--VLA--VA--VLN-GitHub-blue?logo=github)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
 [![VLAs-Muhayyuddin](https://img.shields.io/badge/VLAs--Muhayyuddin-GitHub-blue?logo=github)](https://github.com/Muhayyuddin/VLAs)
-[![Awesome VLA & WAM](https://img.shields.io/badge/VLA-WAM-GitHub-blue?logo=github)](https://github.com/DravenALG/awesome-vla-wam)
+
