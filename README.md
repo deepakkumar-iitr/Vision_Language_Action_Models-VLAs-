@@ -249,8 +249,9 @@ This repository serves as a collection of resources, tools and papers for Vision
 3. VLAs (Muhayyuddin) https://github.com/Muhayyuddin/VLAs
 
 
-## 🔗 Resources
+## 🔗 GitHub Resources
 
 [![Awesome-VLA-Papers](https://img.shields.io/badge/Awesome--VLA--Papers-GitHub-blue?logo=github)](https://github.com/Psi-Robot/Awesome-VLA-Papers)
 [![Awesome-Embodied-VLA-VA-VLN](https://img.shields.io/badge/Awesome--Embodied--VLA--VA--VLN-GitHub-blue?logo=github)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
 [![VLAs-Muhayyuddin](https://img.shields.io/badge/VLAs--Muhayyuddin-GitHub-blue?logo=github)](https://github.com/Muhayyuddin/VLAs)
+[![Awesome VLA & WAM](https://img.shields.io/badge/VLAs--Muhayyuddin-GitHub-blue?logo=github)](https://github.com/DravenALG/awesome-vla-wam)
