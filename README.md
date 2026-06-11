@@ -104,6 +104,16 @@
 | 11 | `2026` | **Foundation Models in Robotics**: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Directions | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15395-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2604.15395v1) | |
 ---
 
+## 📄 Robot Learning — Resources
+
+> Available Online Resources for Robot Learning.
+
+| SN | Year | Title | Course Link | Link |
+|:---:|:---:|:---|:---|:---|
+| 01 | `2025` |  **DeepRob**: Deep Learning for Robot Perception| [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://deeprob.org/w25/) | |
+| 02 | `2026` | **Robot Learning**: From Fundamentals to Foundation Models | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://video.ethz.ch/lectures/d-infk/2026/spring/263-5911-00L) | |
+
+
 ## 🔧 Robot Simulators
 
 > State-of-the-art open source platform for robot simulation. 
