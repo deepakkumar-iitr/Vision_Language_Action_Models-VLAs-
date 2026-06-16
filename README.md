@@ -57,6 +57,7 @@
 | 32 | `2026` | **RoboClaw**: An Agentic Framework for Scalable Long-Horizon Robotic Tasks | [![ArXiv](https://img.shields.io/badge/ArXiv-2603.11558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.11558) | |
 | 33 | `2026` | **MolmoAct2**: Action Reasoning Models for Real-World Deployment | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2605.02881v1) | |
 | 34 | `2026` | **Qwen-VLA**: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.30280) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://qwen.ai/blog?id=qwenvla)|
+| 35 | `2026` | **LabVLA**: Grounding Vision-Language-Action Models in Scientific Laboratories | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.13578) | |
 
 ---
 
