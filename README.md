@@ -109,10 +109,11 @@
 
 > Available Online Resources for Robot Learning.
 
-| SN | Year | Title | Course Link | Link |
+| SN | Year | Title | Course Link | Source |
 |:---:|:---:|:---|:---|:---|
-| 01 | `2025` |  **DeepRob**: Deep Learning for Robot Perception| [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://deeprob.org/w25/) | |
-| 02 | `2026` | **Robot Learning**: From Fundamentals to Foundation Models | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://video.ethz.ch/lectures/d-infk/2026/spring/263-5911-00L) | |
+| 01 | `2025` |  **CS223A**- Introduction to Robotics| [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://see.stanford.edu/Course/CS223A) | Stanford Lectures |
+| 02 | `2025` |  **DeepRob**: Deep Learning for Robot Perception| [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://deeprob.org/w25/) | The University of Michigan |
+| 03 | `2026` | **Robot Learning**: From Fundamentals to Foundation Models | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://video.ethz.ch/lectures/d-infk/2026/spring/263-5911-00L) | ETH Zürich |
 
 
 ## 🔧 Robot Simulators
