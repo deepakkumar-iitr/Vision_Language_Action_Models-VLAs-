@@ -77,7 +77,6 @@
 | 06 | `2025` | **RoboChallenge** | [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Dataset-yellow?style=flat-square)](https://huggingface.co/datasets/RoboChallenge/Table30) | |
 | 07 | `2026` | **EgoVerse**: An Egocentric Human Dataset for Robot Learning from Around the World | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.07607) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://egoverse.ai/) |
 | 08 | `2026` | **HapTile**: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.04825) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)]() |
-
 ---
 
 ## 🔧 Annotator Tools
