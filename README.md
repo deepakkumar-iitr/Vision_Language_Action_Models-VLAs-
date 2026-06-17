@@ -6,9 +6,9 @@
 *Tracing a rapid four-year arc (2022–2026) from Google's first transformer-based robot policy*
 *to fully open-source, diffusion-powered, reasoning-capable generalist agents.*
 
-[![Papers](https://img.shields.io/badge/📄_Papers-34-teal?style=flat-square)](https://github.com)
-[![Datasets](https://img.shields.io/badge/🗄️_Datasets-6-blue?style=flat-square)](https://github.com)
-[![Surveys](https://img.shields.io/badge/🗺️_Surveys-10-purple?style=flat-square)](https://github.com)
+[![Papers](https://img.shields.io/badge/📄_Papers-36-teal?style=flat-square)](https://github.com)
+[![Datasets](https://img.shields.io/badge/🗄️_Datasets-7-blue?style=flat-square)](https://github.com)
+[![Surveys](https://img.shields.io/badge/🗺️_Surveys-12-purple?style=flat-square)](https://github.com)
 [![Tools](https://img.shields.io/badge/🔧_Tools-1-orange?style=flat-square)](https://github.com)
 [![Repos](https://img.shields.io/badge/⭐_Repos-3-red?style=flat-square)](https://github.com)
 [![Years](https://img.shields.io/badge/📅_2022--2026-Timeline-gray?style=flat-square)](https://github.com)
@@ -56,8 +56,10 @@
 | 31 | `2026` | **π0.7**: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15483-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.15483) | |
 | 32 | `2026` | **RoboClaw**: An Agentic Framework for Scalable Long-Horizon Robotic Tasks | [![ArXiv](https://img.shields.io/badge/ArXiv-2603.11558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.11558) | |
 | 33 | `2026` | **MolmoAct2**: Action Reasoning Models for Real-World Deployment | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2605.02881v1) | |
-| 34 | `2026` | **Qwen-VLA**: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.30280) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://qwen.ai/blog?id=qwenvla)|
-| 35 | `2026` | **LabVLA**: Grounding Vision-Language-Action Models in Scientific Laboratories | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.13578) | |
+| 34 | `2026` | **MolmoB0T**: Large-Scale Simulation Enables Zero-Shot Manipulation | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.16861) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://allenai.github.io/MolmoBot/)|
+| 35 | `2026` | **Qwen-VLA**: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.30280) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://qwen.ai/blog?id=qwenvla)|
+| 36 | `2026` | **LabVLA**: Grounding Vision-Language-Action Models in Scientific Laboratories | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.13578) | |
+| 37 | `2026` | **μVLA**: On Recurrent Memory for Partially Observable Manipulation in VLA Models | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.12497) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://avanturist322.github.io/mu-vla/) |
 
 ---
 
@@ -73,6 +75,8 @@
 | 04 | `2023` | **RoboVQA**: Multimodal Long-Horizon Reasoning for Robotics | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://anonymous-robovqa.github.io/) | |
 | 05 | `2024` | **DROID**:A Large-Scale In-The-Wild Robot Manipulation Dataset |[![ArXiv](https://img.shields.io/badge/ArXiv-2310.08864-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.12945) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://droid-dataset.github.io/) |
 | 06 | `2025` | **RoboChallenge** | [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Dataset-yellow?style=flat-square)](https://huggingface.co/datasets/RoboChallenge/Table30) | |
+| 07 | `2026` | **EgoVerse**: An Egocentric Human Dataset for Robot Learning from Around the World | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.07607) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://egoverse.ai/) |
+| 08 | `2026` | **HapTile**: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.04825) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)]() |
 
 ---
 
@@ -102,7 +106,9 @@
 | 08 | `2025` | **VLA Models**: Concepts, Progress, Applications and Challenges | [![ArXiv](https://img.shields.io/badge/ArXiv-2505.04769-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.04769) | |
 | 09 | `2025` | **Foundation Model Driven Robotics**: A Comprehensive Review | [![ArXiv](https://img.shields.io/badge/ArXiv-2507.10087-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.10087) | |
 | 10 | `2025` | **A Survey on VLA Models**: An Action Tokenization Perspective | [![ArXiv](https://img.shields.io/badge/ArXiv-2507.01925-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.01925) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Psi-Robot/Awesome-VLA-Papers) |
-| 11 | `2026` | **Foundation Models in Robotics**: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Directions | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15395-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2604.15395v1) | |
+| 11 | `2026` | **Parallels Between VLA Model Post-Training and Human Motor Learning**: Progress, Challenges, and Trends | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15395-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.20966) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/AoqunJin/Awesome-VLA-Post-Training)|
+| 12 | `2026` | **Foundation Models in Robotics**: A Comprehensive Review of Methods, Models, Datasets, Challenges and Future Directions | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.15395-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2604.15395v1) | |
+
 ---
 
 ## 📄 Robot Learning — Resources
@@ -144,7 +150,9 @@ Please follow the existing table format and include a valid ArXiv or project lin
 1. Awesome-VLA-Papers — https://github.com/Psi-Robot/Awesome-VLA-Papers
 2. Awesome-Embodied-VLA-VA-VLN — https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
 3. VLAs (Muhayyuddin) — https://github.com/Muhayyuddin/VLAs
-4. Awesome VLA & WAM https://github.com/DravenALG/awesome-vla-wam
+4. Awesome VLA & WAM — https://github.com/DravenALG/awesome-vla-wam
+5. Awesome-VLA-Post-Training — https://github.com/AoqunJin/Awesome-VLA-Post-Training
+6. Awesome Touch — https://github.com/linchangyi1/Awesome-Touch
 
 ## 🔗 Resources
 
@@ -152,6 +160,7 @@ Please follow the existing table format and include a valid ArXiv or project lin
 [![Awesome-Embodied-VLA-VA-VLN](https://img.shields.io/badge/Awesome--Embodied--VLA--VA--VLN-GitHub-blue?logo=github)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
 [![VLAs-Muhayyuddin](https://img.shields.io/badge/VLAs--Muhayyuddin-GitHub-blue?logo=github)](https://github.com/Muhayyuddin/VLAs)
 [![Awesome VLA and WAM](https://img.shields.io/badge/Awesome-VLA-WAM-GitHub-blue?logo=github)](https://github.com/DravenALG/awesome-vla-wam)
+[![Awesome Touch](https://img.shields.io/badge/VLAs--Muhayyuddin-GitHub-blue?logo=github)](https://github.com/linchangyi1/Awesome-Touch)
 
 
 ---
