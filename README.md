@@ -7,7 +7,7 @@
 *to fully open-source, diffusion-powered, reasoning-capable generalist agents.*
 
 [![Papers](https://img.shields.io/badge/📄_Papers-36-teal?style=flat-square)](https://github.com)
-[![Datasets](https://img.shields.io/badge/🗄️_Datasets-7-blue?style=flat-square)](https://github.com)
+[![Datasets](https://img.shields.io/badge/🗄️_Datasets-08-blue?style=flat-square)](https://github.com)
 [![Surveys](https://img.shields.io/badge/🗺️_Surveys-12-purple?style=flat-square)](https://github.com)
 [![Tools](https://img.shields.io/badge/🔧_Tools-1-orange?style=flat-square)](https://github.com)
 [![Repos](https://img.shields.io/badge/⭐_Repos-3-red?style=flat-square)](https://github.com)
