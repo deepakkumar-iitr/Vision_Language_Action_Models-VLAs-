@@ -62,6 +62,22 @@
 | 37 | `2026` | **μVLA**: On Recurrent Memory for Partially Observable Manipulation in VLA Models | [![ArXiv](https://img.shields.io/badge/ArXiv-2605.02881-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.12497) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://avanturist322.github.io/mu-vla/) |
 
 ---
+## 📄 Injecting extra knowledge in Vision Language Action (VLA) Models — Research Papers
+
+> Papers on VLA models in which extra knowledge has been injected or distilled.
+
+| SN | Year | Title | PaperLink | GitHub |
+|:---:|:---:|:---|:---|:---|
+| 01 | `2025` | **GeoVLA**: Empowering 3D Representations in Vision-Language-Action Models | [![ArXiv](https://img.shields.io/badge/ArXiv-2209.07753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.09071) |[![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://linsun449.github.io/GeoVLA/)  |
+| 02 | `2025` | 3D-Aware Vision-Language Models Fine-Tuning with Geometric Distillation | [![ArXiv](https://img.shields.io/badge/ArXiv-2209.07753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.09883) |[![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)]()  |
+| 03 | `2025` |**GLaD**: Geometric Latent Distillation for Vision-Language-Action Models | [![ArXiv](https://img.shields.io/badge/ArXiv-2209.07753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.09619) |[![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)]()  |
+| 04 | `2026` |**AugVLA-3D**: Depth-Driven Feature Augmentation for Vision-Language-Action Models | [![ArXiv](https://img.shields.io/badge/ArXiv-2209.07753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.10698) |[![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)]()  |
+| 05 | `2026` |Overcoming Visual Clutter in Vision Language Action Models via Concept-Gated Visual Distillation | [![ArXiv](https://img.shields.io/badge/ArXiv-2209.07753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.10340) |[![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)]()  |
+| 06 | `2026` |**3DVLA**: Enhancing Vision-Language-Action Models via 3D Spatial and Instance Understanding | [![ArXiv](https://img.shields.io/badge/ArXiv-2209.07753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.29416) |[![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)]()  |
+| 07 | `2026` |**3DThinkVLA**: Endowing Vision-Language-Action Models with Latent 3D Priors via 3D-Thinking-Guided Co-training | [![ArXiv](https://img.shields.io/badge/ArXiv-2209.07753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.04436) |[![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)]()  |
+| 08 | `2026` | **MotionVLA**: Injecting Geometric Motion into Vision-Langage-Action Model | [![ArXiv](https://img.shields.io/badge/ArXiv-2209.07753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.08288) | |
+
+---
 
 ## 🗄️ Datasets
 
