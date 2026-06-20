@@ -142,8 +142,6 @@
 | 04 | `2026` | **Robot Learning** | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://www.cs.cornell.edu/courses/cs4756/2026sp/#overview) | Cornell University |
 
 
-https://www.youtube.com/watch?v=EvHRQhMX7_w&list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL&index=1
-
 ## 🔧 Robot Simulators
 
 > State-of-the-art open source platform for robot simulation. 
