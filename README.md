@@ -132,13 +132,12 @@
 
 | SN | Year | Title | Course Link | Source |
 |:---:|:---:|:---|:---|:---|
-<!-- 
-| 01 | `2025` |  **CS223A**- Introduction to Robotics| [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://see.stanford.edu/Course/CS223A) | Stanford Lectures |
--->
+
 | 01 | `2025` |  **CS224R**- Deep Reinforcement Learning | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://www.youtube.com/watch?v=EvHRQhMX7_w&list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL&index=1) | Stanford Lectures |
 | 02 | `2025` |  **DeepRob**: Deep Learning for Robot Perception| [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://deeprob.org/w25/) | The University of Michigan |
 | 03 | `2026` | **Robot Learning**: From Fundamentals to Foundation Models | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://video.ethz.ch/lectures/d-infk/2026/spring/263-5911-00L) | ETH Zürich |
 | 04 | `2026` | **Robot Learning** | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://www.cs.cornell.edu/courses/cs4756/2026sp/#overview) | Cornell University |
+
 ---
 
 ## 🔧 Robot Simulators
