@@ -132,7 +132,8 @@
 
 | SN | Year | Title | Course Link | Source |
 |:---:|:---:|:---|:---|:---|
-<!--| 01 | `2025` |  **CS223A**- Introduction to Robotics| [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://see.stanford.edu/Course/CS223A) | Stanford Lectures |
+<!-- 
+| 01 | `2025` |  **CS223A**- Introduction to Robotics| [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://see.stanford.edu/Course/CS223A) | Stanford Lectures |
 -->
 | 01 | `2025` |  **CS224R**- Deep Reinforcement Learning | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://www.youtube.com/watch?v=EvHRQhMX7_w&list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL&index=1) | Stanford Lectures |
 | 02 | `2025` |  **DeepRob**: Deep Learning for Robot Perception| [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://deeprob.org/w25/) | The University of Michigan |
