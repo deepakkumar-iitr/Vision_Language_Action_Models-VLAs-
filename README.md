@@ -155,6 +155,8 @@
 | 01 | `2024` | **MuJoCo**: Multi-Joint dynamics with Contact. | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.26637-b31b1b?style=flat-square&logo=arxiv)]() | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/google-deepmind/mujoco)|
 | 02 | `2025`  | **ISAAC-Sim** | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.26637-b31b1b?style=flat-square&logo=arxiv)]()| [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/isaac-sim/IsaacSim)|
 | 03 | `2026` | **ManiSkill**: State-of-the-art open source platform for robot simulation, infinite robot data generation, and generalizable robot AI. | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.26637-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2410.00425) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://www.maniskill.ai/)|
+| 04 | `2024` | **Gazebo Simulator**| [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/gazebosim/gz-sim) | [![Page](https://img.shields.io/badge/🌐_Project-Page-blue?style=flat-square)](https://gazebosim.org/home)|
+| 05 | `2025` | **RViz2** | [![ArXiv](https://img.shields.io/badge/ArXiv-2604.26637-b31b1b?style=flat-square&logo=arxiv)]() | ![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/ros2/rviz)|
 
 ---
 
