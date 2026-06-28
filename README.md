@@ -23,7 +23,7 @@
 
 | SN | Year | Title | PaperLink | GitHub |
 |:---:|:---:|:---|:---|:---|
-| 01 | `2022` | **Code as Policies**: Language Model Programs for Embodied Control | [![ArXiv](https://img.shields.io/badge/ArXiv-2209.07753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2209.07753) | |
+| 01 | `2022` | **Code as Policies**: Language Model Programs for Embodied Control | [![ArXiv](https://img.shields.io/badge/ArXiv-2209.07753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2209.07753) | [![GitHub](https://img.shields.io/badge/🐙_GitHub-Repo-181717?style=flat-square&logo=github)](https://code-as-policies.github.io/)|  
 | 02 | `2023` | **RT-1**: Robotics Transformer for Real-World Control at Scale | [![ArXiv](https://img.shields.io/badge/ArXiv-2212.06817-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2212.06817) | |
 | 03 | `2023` | **RT-2**: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control | [![ArXiv](https://img.shields.io/badge/ArXiv-2307.15818-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2307.15818) | |
 | 04 | `2024` | **π0**: A Vision-Language-Action Flow Model for General Robot Control | [![ArXiv](https://img.shields.io/badge/ArXiv-2410.24164-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/html/2410.24164v1) | |
